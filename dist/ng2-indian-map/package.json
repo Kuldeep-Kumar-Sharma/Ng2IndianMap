@@ -1,0 +1,21 @@
+{
+  "name": "ng2-indian-map",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/ng2-indian-map.umd.js",
+  "module": "fesm5/ng2-indian-map.js",
+  "es2015": "fesm2015/ng2-indian-map.js",
+  "esm5": "esm5/ng2-indian-map.js",
+  "esm2015": "esm2015/ng2-indian-map.js",
+  "fesm5": "fesm5/ng2-indian-map.js",
+  "fesm2015": "fesm2015/ng2-indian-map.js",
+  "typings": "ng2-indian-map.d.ts",
+  "metadata": "ng2-indian-map.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
